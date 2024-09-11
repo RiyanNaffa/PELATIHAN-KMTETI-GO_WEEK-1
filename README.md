@@ -15,8 +15,6 @@ fmt.Scan(&temp_c)
 ```
 **Terminal:**
 ```
-========== TEMPERATURE CONVERTER ==========
-
 Temperature (in C):
 ```
 
@@ -122,3 +120,18 @@ Setiap konversi suhu memiliki rumus-rumus tersendiri.
   ```
   Invalid option
   ```
+
+## Demo
+
+```
+
+========== TEMPERATURE CONVERTER ==========
+
+Temperature (in C): 21
+Convert to:
+1. Fahrenheit
+2. Reamur
+3. Kelvin
+1
+The temperature is 69.800000 F
+```
