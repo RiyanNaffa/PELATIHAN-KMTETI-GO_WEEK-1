@@ -1,6 +1,6 @@
 # TEMPERATURE CONVERTER (C to F/R/K)
 
-Nama: Riyan Naffa Nusafara
+Riyan Naffa Nusafara
 
 ## Masukan Temperatur
 
